@@ -52,3 +52,9 @@ This definition follows contemporary hypertension treatment thresholds from JNC 
 
 - **Cross-sectional data only**: NHANES is not longitudinal, so we cannot evaluate before-and-after treatment effects  
 - **No dosage or duration data**: We only know whether a drug was reported in the past 30
+
+## Summary Plot
+
+-This chart shows the real-world blood pressure control rate for five potent antihypertensive drugs using NHANES data.
+
+![bp_control_by_drug](https://github.com/user-attachments/assets/da093019-8390-4d79-a0ce-c972bbf8dc9a)
